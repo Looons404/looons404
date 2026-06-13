@@ -48,9 +48,11 @@ A Flappy Bird clone built for fun and learning.
 ## Favorite quotes
 
 > Building random things since I discovered that computers can do more than run games.
-> 
+
 > If it works, don't touch anything. If it doesn't, add logs.
-> 
+
 > If nobody understands why it exists, it's probably one of my projects.
-> 
-> 404: Normal Projects Not Found.  
+
+> 404: Normal Projects Not Found.
+
+> Remember the less a database has to do, the better - Lewis Menelas from Coding with Lewis
